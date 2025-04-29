@@ -1,35 +1,3 @@
-# Table of Contents {#table-of-contents .TOC-Heading}
-
-[Hyperspectral Data Processing Pipeline Documentation
-[1](#_Toc196761310)](#_Toc196761310)
-
-[Overview [1](#overview)](#overview)
-
-[Dependencies [1](#dependencies)](#dependencies)
-
-[Configuration [1](#configuration)](#configuration)
-
-[config.py [1](#config.py)](#config.py)
-
-[Key Paths: [2](#key-paths)](#key-paths)
-
-[Modules [2](#modules)](#modules)
-
-[1. main.py [2](#main.py)](#main.py)
-
-[2. load_utils.py [2](#load_utils.py)](#load_utils.py)
-
-[3. preprocess.py [2](#preprocess.py)](#preprocess.py)
-
-[4. normalize.py [3](#normalize.py)](#normalize.py)
-
-[5. pca_utils.py [3](#pca_utils.py)](#pca_utils.py)
-
-[6. convert.py [3](#convert.py)](#convert.py)
-
-[Usage [4](#usage)](#usage)
-
-[Input/Output Formats: [4](#inputoutput-formats)](#inputoutput-formats)
 
 # Hyperspectral Data Processing Pipeline Documentation
 
